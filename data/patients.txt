@@ -1,0 +1,2 @@
+1,Sagar,22,male,Flu
+2,manali,27,female,headache
